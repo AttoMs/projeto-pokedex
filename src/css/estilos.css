@@ -95,6 +95,12 @@ main .cartao-pokemon .gif {
     height: 60px;
 }
 
+main .cartao-pokemon .gif-Wigglytuff {
+    /* background-color: brown; */
+    width: 40px;
+    height: 60px;
+}
+
 main .cartao-pokemon .tipos {
     /* background-color: aqua; */
     display: flex;
@@ -138,4 +144,20 @@ main .descricao {
 
 .inseto {
     background-color: #a6b91a;
+}
+
+.normal{
+    background-color: #A8A878;
+}
+
+.eletrico{
+    background-color: #F8D030;
+}
+
+.terra{
+    background-color: #E0C068;
+}
+
+.fada{
+    background-color: #F8A0E0;
 }
