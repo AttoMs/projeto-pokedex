@@ -66,13 +66,17 @@ main .cartao-pokemon {
 }
 
 main .cartao-pokemon:hover {
-    background-color: #9ce9e6;
+    background-color: #a6f3f0;
     transform: scale(1.05);
     cursor: pointer;
 }
 
 .modo-escuro .cartao-pokemon {
     background-color: #a8a8a8;
+}
+
+.modo-escuro .cartao-pokemon:hover{
+    background-color: #294e4d;
 }
 
 main .cartao-pokemon .informacoes {
@@ -156,6 +160,38 @@ main .descricao {
 
 .terra{
     background-color: #E0C068;
+}
+
+.fada{
+    background-color: #F8A0E0;
+}
+
+.lutador{
+    background-color: #ac625b;
+}
+
+.psiquico{
+    background-color: #F85888;
+}
+
+.pedra{
+    background-color: #B8A038;
+}
+
+.metal{
+    background-color: #B8B8D0;
+}
+
+.gelo{
+    background-color: #98D8D8;
+}
+
+.fantasma{
+    background-color: #705898 ;
+}
+
+.dragao {
+    background-color: #7944f5;
 }
 
 .fada{
