@@ -1,0 +1,10 @@
+*{
+    margin: 0; /*espaçamento externo*/
+    padding: 0; /* espaçamento interno*/
+    box-sizing: border-box;
+    /* background-color: blue; */
+}
+
+ul{
+    list-style: none;
+}
