@@ -1,8 +1,15 @@
-@media(max-width: 425px){
+@media(max-width: 769px){
+    main{
+        padding: 15px;
+    }
+    main .listagem-pokemon{
+        display: flex;
+        gap: 12px;
+    }
     main .cartao-pokemon{
         /* background-color: aqua; */
         max-width: 170px;
-        margin: 0;
+        margin-bottom: 10px;
         border-radius: 15px;
     }
 
